@@ -1,0 +1,11 @@
+Student Name,Math Grade,Science Grade,History Grade,English Grade
+John Doe,85,92,78,88
+Jane Smith,91,88,75,90
+Michael Johnson,78,85,82,86
+Emily Davis,95,89,92,94
+David Wilson,88,93,80,89
+Sarah Brown,76,84,79,87
+Christopher Lee,90,91,88,92
+Lisa Anderson,87,82,75,86
+Kevin Martin,82,78,76,80
+Amanda White,89,90,85,91

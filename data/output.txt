@@ -1,0 +1,8 @@
+Hello, World2!
+Total: Number of entries: 2
+Total:     5.00
+ a new line
+This is a new line
+Number of entries: %d
+Total: %8.2f
+Hello, World2!
